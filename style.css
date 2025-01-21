@@ -77,7 +77,8 @@ nav ul li a{
     border-top-right-radius:25px;
     border-bottom-right-radius:25px;
     transition:0.4s;
-}nav ul li a:hover{
+}
+nav ul li a:hover{
     width:83%;
 }
 .moi{
@@ -88,7 +89,6 @@ nav ul li a{
 }
 section#introduce p{
     width:80%;
-    text-align:justify;
     margin:100px auto 0;
 }
 .link{

@@ -124,7 +124,6 @@ footer.appendChild(insert);
 
 function builModal(data){
 
-    console.log(data)
     const modal = document.getElementById("modal");
     modal.innerHTML = "";
 
@@ -181,7 +180,6 @@ function builModal(data){
     linkSource.target = "_blank"; 
     linkSource.textContent = data.details.linkText; 
 
-    console.log(linkSource)
     divDetails.appendChild(pic);
     divDetails.appendChild(titleDetails);
     divDetails.appendChild(content);

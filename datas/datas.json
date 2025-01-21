@@ -45,7 +45,7 @@
         "link": "http://82.65.65.171/amsac/index.php",
         "details": {
             "titleDetails" : "<strong>Détails :</strong><br>",
-            "contentDetails" : "C'est l'un de mes premiers projets. J'ai commencé par faire la page d'accueil de ce site en suivant <a href='https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3' target='_blank'>Le cours \"Créez votre site web avec HTMLS et CSS3\"</a> jusqu'à terminer toutes les pages. J'ai poursuivi en y intégrant le carrousel. Je suis revenue sur le projet pour travailler le responsive et y ajouter un menu burger." ,
+            "contentDetails" : "C'est l'un de mes premiers projets. J'ai commencé par faire la page d'accueil de ce site en suivant le cours <a href='https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3' target='_blank'>\"Créez votre site web avec HTMLS et CSS3\"</a> jusqu'à terminer toutes les pages. J'ai poursuivi en y intégrant le carrousel. Je suis revenue sur le projet pour travailler le responsive et y ajouter un menu burger." ,
             "titleValid" : "",
             "contentValid": "",
             "titleComp" : "<strong>Compétences acquises :</strong><br>",
@@ -64,13 +64,13 @@
         "link": "https://www.ingouville.fr/",
         "details": {
             "titleDetails" : "<strong>Détails :</strong><br>",
-            "contentDetails" : "Entrer le texte",
-            "titleValid" : "<strong>Pour être validé :</strong><br>",
-            "contentValid": "Entrer le texte",
+            "contentDetails" : "À l'issue d'une formation de technique de recherche d'emploi faite en 2020, j'ai fait un stage d'observation en développement web à l'imprimerie <a href='https://www.ic4.fr/' target='_blank'>Ic4</a> à Dieppe. Une première phase de ce stage à été l'observation, les questions sur les languages utilisés, la prise de notes et une deuxième phase d'exécution pendant laquelle j'ai pu écrire la structure HTML et le CSS de la page d'acceuil du site web de la maire D'ingouville-sur-Mer d'après une maquette.",
+            "titleValid" : "",
+            "contentValid": "",
             "titleComp" : "<strong>Compétences acquises :</strong><br>",
-            "contentComp": "<ul><li>Compétences A</li><li>Compétence B</li></ul>",
+            "contentComp": "<ul><li>Le perfectionnement sur mes compétences en CSS</li><li>Faire preuve de rigueur</li></ul>",
             "encounteredTitle": "<strong>Difficultés rencontrées :</strong><br>",
-            "encounteredContent": "---",
+            "encounteredContent": "Les problématiques rencontrées on été de respecter la charte graphique le plus fidèlement possible, d'organiser le CSS correctement pour qu'il soit maintenable, trouver les solutions pour respecter le graphisme comme l'utilisation de pseudo-classes. Pour les surmonter, j'ai bien entendu appliqué les conseils de Clément, mon maître de stage et surtout consulté les forums comme stack overflow et la documentation MDN.",
             "linkSource": "https://leProjet.com",
             "linkText": "Lien Github"
         }
