@@ -59,7 +59,7 @@
     {
         "id": 4,
         "title": "Ingouville sur mer",
-        "description": "Intégration de la page d'accueil du site web de la mairie d'Ingouville sur Mer lors d'un stage en observation à l'imprimerie IC4 à Dieppe en 2020.",
+        "description": "Intégration de la page d'accueil du site web de la mairie d'Ingouville sur Mer lors d'un stage en observation.",
         "image": "Images/ingouville.webp",
         "link": "https://www.ingouville.fr/",
         "details": {
@@ -71,8 +71,8 @@
             "contentComp": "<ul><li>Le perfectionnement sur mes compétences en CSS</li><li>Faire preuve de rigueur</li></ul>",
             "encounteredTitle": "<strong>Difficultés rencontrées :</strong><br>",
             "encounteredContent": "Les problématiques rencontrées on été de respecter la charte graphique le plus fidèlement possible, d'organiser le CSS correctement pour qu'il soit maintenable, trouver les solutions pour respecter le graphisme comme l'utilisation de pseudo-classes. Pour les surmonter, j'ai bien entendu appliqué les conseils de Clément, mon maître de stage et surtout consulté les forums comme stack overflow et la documentation MDN.",
-            "linkSource": "https://leProjet.com",
-            "linkText": "Lien Github"
+            "linkSource": "https://www.ingouville.fr/",
+            "linkText": "Voir le site"
         }
     },
     {
