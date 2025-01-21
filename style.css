@@ -49,7 +49,7 @@ h1{
     font-size:2em;
     font-family:"Nunito-Bold";
 }
-h2{
+h2.titleSection{
     padding:60px 0;
     font-size:30px;
 }
@@ -176,17 +176,7 @@ section#introduce p{
 #devel .expo img{
     width:100%;
 }
-#music>.expo{
-    border:none;
-    display:flex;
-    flex-wrap:wrap;
-    width:80%;
-}
-video{
-    width:400px;
-    margin-bottom:20px;
-    border-radius:10px;
-}
+
 #cv .expo{
     flex-direction:column;
 }
@@ -220,10 +210,10 @@ footer{
 /*modal*/
 .modal {
 	position: fixed;
-    top: -50px;
+    top: 0;
     left: 0;
     width: 100%;
-    height: calc(100vh + 60px);
+    height: 100vh ;
     backdrop-filter: blur(10px);
     background: rgba(0, 0, 0, 0.6);
     display: flex;
@@ -234,11 +224,8 @@ footer{
 .modalWrapper {
 	position: relative;
 	border-radius: 10px;
-	width: 730px;
-	height: 800px;
-	max-width: calc(100vw - 20px);
-	max-height: calc(100vh - 20px);
-    /* max-height: 100vh; */
+    width: 85%;
+    max-height: calc(100vh - 60px);
 	padding: 20px;
 	background-color: #fff;
     color: black;
@@ -270,24 +257,10 @@ footer{
 }
 
 /*modal*/
-@media screen and (max-width:1300px){
-    #music .expo{
-        width:100%;
-        flex-direction:row;
-        justify-content:center;
-    }
-    video{
-        margin-bottom:unset;
-        margin:10px;
-        width:40%;
-    }
-}
+
 @media screen and (max-width:912px){
     .expo{
         width:100%;
-    }
-    video{
-        width:90%;
     }
     #cv .cv{
         width:90%;
@@ -404,9 +377,6 @@ footer{
     }
     #contact h2{
         margin-top:25px;
-    }
-    #music>.expo{
-        padding:unset;
     }
     .container{
         grid-template-columns: unset;

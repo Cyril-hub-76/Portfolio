@@ -21,20 +21,20 @@
     {
         "id": 2,
         "title": "Player",
-        "description": "( projet en développement ) Lecteur de musique exploitant une base de données.",
+        "description": "Lecteur de musique en ligne exploitant une base de données Sql.",
         "image": "Images/G-key.webp",
         "link": "http://82.65.65.171/playitFree/",
         "details": {
             "titleDetails" : "<strong>Détails :</strong><br>",
-            "contentDetails" : "Entrer le texte",
-            "titleValid" : "<strong>Pour être validé :</strong><br>",
-            "contentValid": "Entrer le texte",
+            "contentDetails" : "Ce projet est en développement. C'est le premier projet sur lequel j'interviens tant sur le backend que sur le frontend que sur la mise en place du serveur. <br><strong>Côté Php =></strong> Les fonctions principales sont la création d'un compte et la connexion.<br><strong>Côté Sql =></strong> La base de données possède deux tables, une pour les utilisateurs, l'autre pour représenter un album.<br><strong>Côté Javascript =></strong> on récupère les données de chaque album comme le nom de l'album, le nom du fichier de la pochette, l'artiste etc et de créer avec Javascript les balises HTML qui contiennent ces informations comme la source de l'audio ou de l'image. Puis créer les fonctions de lecture, d'affichage de la durée de la musique ou de gestion du volume. <br><strong>Côter serveur LAMP =></strong> Raspberry Pi.3 => Linux + Apache + MySql + Php",
+            "titleValid" : "",
+            "contentValid": "",
             "titleComp" : "<strong>Compétences acquises :</strong><br>",
             "contentComp": "<ul><li>Compétences A</li><li>Compétence B</li></ul>",
             "encounteredTitle": "<strong>Difficultés rencontrées :</strong><br>",
             "encounteredContent": "...",
-            "linkSource": "https://leProjet.com",
-            "linkText": "Lien Github"
+            "linkSource": "http://82.65.65.171/playitFree/player.php",
+            "linkText": "Voir le projet"
         }
     },
     {
