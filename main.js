@@ -13,8 +13,10 @@ async function loadProjects() {
 
             card.innerHTML = `
                 <img class="pic" src="${project.image}" alt="logo ${project.title}">
-                <h3>${project.title}</h3>
-                <p class="Pcard">${project.description}</p>
+                <div class="cardContainer">
+                    <h3>${project.title}</h3>
+                    <p class="Pcard">${project.description}</p>
+                </div>
                 <div class="cardFooter">
                     <a class="infos" title="Informations supplémentaires" href="#" data-id="${project.id}"><i class="fa-solid fa-plus"></i>  </a>
                     <a class="project" title="Voir le projet" href="${project.link}" target="_blank">Voir le projet</a>

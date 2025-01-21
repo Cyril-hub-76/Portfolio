@@ -115,12 +115,14 @@ section#introduce p{
     width:235px;
     height:345px;
     padding:15px;
-    position:relative;
     border-radius:10px;
     background:linear-gradient(to bottom,#5f9ea0,#0b4f6c);
     transition:.5s;
-    text-align:justify;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
+
 .card:hover{
     transform:translateY(-5px);
 }
@@ -140,7 +142,9 @@ section#introduce p{
 .card .project, .card .infos{
     text-decoration:none;
     color:#5f9ea0;
-    font-weight:600;
+}
+.card .project {
+    position: relative;
 }
 .card .project::after{
     content:"";
@@ -153,9 +157,7 @@ section#introduce p{
     transition:.5s;
 }
 .cardFooter {
-    position: absolute;
     bottom: 15px;
-    width: 86%;
     display: flex;
     justify-content: space-between;
 }
