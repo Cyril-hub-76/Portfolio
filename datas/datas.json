@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "title": "Booki",
+        "description": "Projet OpenclassRooms : Projet d'intégration d'une page d'accueil pour une agence de voyage.",
+        "image": "Images/Booki.webp",
+        "link": "http://82.65.65.171/Booki/",
+        "details": {
+            "titleDetails" : "<strong>Détails :</strong><br>",
+            "contentDetails" : "Booki est le premier projet réalisé lors de ma formation de développeur web. Il est entièrement réalisé en HTML et CSS.",
+            "titleValid" : "<strong>Pour être validé :</strong><br>",
+            "contentValid": "Ce projet ne devait utiliser aucun framework de type Bootstrap, ni de cms de type Wordpress. La page devait être responsive sur les écrans de pc, tablettes et smartphones. Le code HTML devait respecter la sémentique et être validé par <a href='https://validator.w3.org/' target='_blank'>W3C validator</a>",
+            "titleComp" : "<strong>Compétences acquises :</strong><br>",
+            "contentComp": "<ul><li>Intégrer du contenu conformément à une maquette avec HTML et CSS</li><li>Implémenter une interface responsive avec HTML et CSS</li></ul>",
+            "encounteredTitle": "",
+            "encounteredContent": "",
+            "linkSource": "https://github.com/Cyril-hub-76/Booki",
+            "linkText": "Lien Github"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Player",
+        "description": "( projet en développement ) Lecteur de musique exploitant une base de données.",
+        "image": "Images/G-key.webp",
+        "link": "http://82.65.65.171/playitFree/",
+        "details": {
+            "titleDetails" : "<strong>Détails :</strong><br>",
+            "contentDetails" : "Entrer le texte",
+            "titleValid" : "<strong>Pour être validé :</strong><br>",
+            "contentValid": "Entrer le texte",
+            "titleComp" : "<strong>Compétences acquises :</strong><br>",
+            "contentComp": "<ul><li>Compétences A</li><li>Compétence B</li></ul>",
+            "encounteredTitle": "<strong>Difficultés rencontrées :</strong><br>",
+            "encounteredContent": "...",
+            "linkSource": "https://leProjet.com",
+            "linkText": "Lien Github"
+        }
+    },
+    {
+        "id": 3,
+        "title": "AMSAC-ASEF",
+        "description": "Reproduction du site web de l' AMSAC-ASEF de Pavilly en 2020. Révision du code en 2022 pour le rendre responsive.",
+        "image": "Images/amsac.webp",
+        "link": "http://82.65.65.171/amsac/index.php",
+        "details": {
+            "titleDetails" : "<strong>Détails :</strong><br>",
+            "contentDetails" : "C'est l'un de mes premiers projets. J'ai commencé par faire la page d'accueil de ce site en suivant <a href='https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3' target='_blank'>Le cours \"Créez votre site web avec HTMLS et CSS3\"</a> jusqu'à terminer toutes les pages. J'ai poursuivi en y intégrant le carrousel. Je suis revenue sur le projet pour travailler le responsive et y ajouter un menu burger." ,
+            "titleValid" : "",
+            "contentValid": "",
+            "titleComp" : "<strong>Compétences acquises :</strong><br>",
+            "contentComp": "<ul><li>Reproduire un site web et sa charte graphique</li><li>Implémenter une interface responsive avec HTML + CSS + javascript</li><li>Implémenter une animation de défilement d'images avec les keyframes</li></ul>",
+            "encounteredTitle": "<strong>Difficultés rencontrées :</strong><br>",
+            "encounteredContent": "Les difficultés que j'ai rencontrées: Transformer un site à taille fixe en un site responsive. Il a donc fallu revoir certaines parties du code HTML, anticiper l'apparence des pages au format mobile. <br>Une autre problématique à été l'application des keyframes pour créer ce défilement. Il a fallu comprendre sa logique et faire des <a href='Documents/timimg_carrousel.pdf' target='_blank'>schémas</a>",
+            "linkSource": "http://82.65.65.171/amsac/style.css",
+            "linkText": "Voir le projet"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Ingouville sur mer",
+        "description": "Intégration de la page d'accueil du site web de la mairie d'Ingouville sur Mer lors d'un stage en observation à l'imprimerie IC4 à Dieppe en 2020.",
+        "image": "Images/ingouville.webp",
+        "link": "https://www.ingouville.fr/",
+        "details": {
+            "titleDetails" : "<strong>Détails :</strong><br>",
+            "contentDetails" : "Entrer le texte",
+            "titleValid" : "<strong>Pour être validé :</strong><br>",
+            "contentValid": "Entrer le texte",
+            "titleComp" : "<strong>Compétences acquises :</strong><br>",
+            "contentComp": "<ul><li>Compétences A</li><li>Compétence B</li></ul>",
+            "encounteredTitle": "<strong>Difficultés rencontrées :</strong><br>",
+            "encounteredContent": "---",
+            "linkSource": "https://leProjet.com",
+            "linkText": "Lien Github"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Mission locale de Dieppe",
+        "description": "Intégration du site de la mission locale de Dieppe effectuée lors d'un stage à l'imprimerie IC4 dans le cadre de ma formation de développeur web.",
+        "image": "Images/logo-mission-locale-dieppe.webp",
+        "link": "https://www.mldieppe.org/",
+        "details": {
+            "titleDetails" : "<strong>Détails :</strong><br>",
+            "contentDetails" : "Entrer le texte",
+            "titleValid" : "<strong>Pour être validé :</strong><br>",
+            "contentValid": "Entrer le texte",
+            "titleComp" : "<strong>Compétences acquises :</strong><br>",
+            "contentComp": "<ul><li>Compétences A</li><li>Compétence B</li></ul>",
+            "encounteredTitle": "<strong>Difficultés rencontrées :</strong><br>",
+            "encounteredContent": "---",
+            "linkSource": "https://leProjet.com",
+            "linkText": "Lien Github"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Côté linux",
+        "description": "Quelques scripts programmés en bash sous forme d'un mini blog.",
+        "image": "Images/linux_logo.webp",
+        "link": "http://82.65.65.171/coteLinux/",
+        "details": {
+            "titleDetails" : "<strong>Détails :</strong><br>",
+            "contentDetails" : "Entrer le texte",
+            "titleValid" : "<strong>Pour être validé :</strong><br>",
+            "contentValid": "Entrer le texte",
+            "titleComp" : "<strong>Compétences acquises :</strong><br>",
+            "contentComp": "<ul><li>Compétences A</li><li>Compétence B</li></ul>",
+            "encounteredTitle": "<strong>Difficultés rencontrées :</strong><br>",
+            "encounteredContent": "---",
+            "linkSource": "https://leProjet.com",
+            "linkText": "Lien Github"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Nina Carducci",
+        "description": "Projet d'optimisation de performances, d'accesssibilié et de référencement SEO du site web d'une photographe",
+        "image": "Images/Nina.webp",
+        "link": "https://cyril-hub-76.github.io/NinaCarducci/",
+        "details": {
+            "titleDetails" : "<strong>Détails :</strong><br>",
+            "contentDetails" : "Entrer le texte",
+            "titleValid" : "<strong>Pour être validé :</strong><br>",
+            "contentValid": "Entrer le texte",
+            "titleComp" : "<strong>Compétences acquises :</strong><br>",
+            "contentComp": "<ul><li>Compétences A</li><li>Compétence B</li></ul>",
+            "encounteredTitle": "<strong>Difficultés rencontrées :</strong><br>",
+            "encounteredContent": "---",
+            "linkSource": "https://leProjet.com",
+            "linkText": "Lien Github"
+        }
+    },
+    {
+        "id": 8,
+    	"title": "Kasa",
+    	"description": "Projet réalisé lors de ma formation Openclassrooms. Application web React d'une ageance de location immobilière",
+    	"image": "Images/kasa.webp",
+    	"link": "https://kasa-ih1ac30mc-cyril-hub-76s-projects.vercel.app/",
+        "details": {
+            "titleDetails" : "<strong>Détails :</strong><br>",
+            "contentDetails" : "Entrer le texte",
+            "titleValid" : "<strong>Pour être validé :</strong><br>",
+            "contentValid": "Entrer le texte",
+            "titleComp" : "<strong>Compétences acquises :</strong><br>",
+            "contentComp": "<ul><li>Compétences A</li><li>Compétence B</li></ul>",
+            "encounteredTitle": "<strong>Difficultés rencontrées :</strong><br>",
+            "encounteredContent": "---",
+            "linkSource": "https://leProjet.com",
+            "linkText": "Lien Github"
+        }
+    }
+]
