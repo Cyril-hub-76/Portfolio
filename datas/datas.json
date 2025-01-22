@@ -64,7 +64,7 @@
         "link": "https://www.ingouville.fr/",
         "details": {
             "titleDetails" : "<strong>Détails :</strong><br>",
-            "contentDetails" : "À l'issue d'une formation de technique de recherche d'emploi faite en 2020, j'ai fait un stage d'observation en développement web à l'imprimerie <a href='https://www.ic4.fr/' target='_blank'>Ic4</a> à Dieppe. Une première phase de ce stage à été l'observation, les questions sur les languages utilisés, la prise de notes et une deuxième phase d'exécution pendant laquelle j'ai pu écrire la structure HTML et le CSS de la page d'acceuil du site web de la maire D'ingouville-sur-Mer d'après une maquette.",
+            "contentDetails" : "À l'issue d'une formation de technique de recherche d'emploi faite en 2020, j'ai fais un stage d'observation en développement web à l'imprimerie <a href='https://www.ic4.fr/' target='_blank'>Ic4</a> à Dieppe. Une première phase de ce stage à été l'observation, les questions sur les languages utilisés, la prise de notes et une deuxième phase d'exécution pendant laquelle j'ai pu écrire la structure HTML et le CSS de la page d'acceuil du site web de la maire D'ingouville-sur-Mer d'après une maquette.",
             "titleValid" : "",
             "contentValid": "",
             "titleComp" : "<strong>Compétences acquises :</strong><br>",
@@ -145,8 +145,8 @@
             "contentValid": "Pour être validé, ce projet doit respecter les contraintes techniques du <a href='Documents/Kasa_coding_guidelines.pdf' target='_blank'>coding guidelines</a>",
             "titleComp" : "<strong>Compétences acquises :</strong><br>",
             "contentComp": "<ul><li>Configurer la navigation entre les pages de l'application avec React Router</li><li>Initialiser une application avec Create React App</li><li>Développer des éléments de l'interface d'un site web grâce à des composants React</li></ul>",
-            "encounteredTitle": "",
-            "encounteredContent": "",
+            "encounteredTitle": "Difficultés rencontrées :",
+            "encounteredContent": "- Isoler les composants réutilisables, il a fallu pour cela repérer dans la maquette qui a été fournie, les éléments identiques présents sur chacune des pages, avec leur comportements. Un exemple, les collapsibles (menu déroulant ). Comme, il n'est pas permis dans ce projet d'utiliser des plugins React, un bonne connaîssance en CSS est primordiale et visionner plusieurs exemples de code <a href='https://www.w3schools.com/howto/howto_js_collapsible.asp' target='_blank'>comme celui-çi</a>. <br>- Bien comprendre le sens parent => enfant. Avec un peu de pratique et de documentation 😉... <br>- Création d'un carrousel. Dans cet exemple, il faut maîtriser à la fois les états, les évènements et avoir des bases sur les tableaux. <br><a href='https://dev.to/ziratsu/build-a-slider-with-react-4651' target='_blank'>Ce tutoriel</a> m'a bien aidé dans ma réalisation notament sur la gestion du retour à la première image ou à la dernière selon la position dans le visionnage",
             "linkSource": "https://github.com/Cyril-hub-76/kasa",
             "linkText": "Lien Github"
         }
