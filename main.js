@@ -19,7 +19,7 @@ async function loadProjects() {
                 </div>
                 <div class="cardFooter">
                     <a class="infos" title="Informations supplémentaires" href="#" data-id="${project.id}"><i class="fa-solid fa-plus"></i>  </a>
-                    <a class="project" title="Voir le projet" href="${project.link}" target="_blank">Voir le projet</a>
+                    <a class="project" title="Voir le projet ${project.title}" href="${project.link}" target="_blank">Voir le projet</a>
                 </div>
             `;
             container.appendChild(card);
