@@ -77,25 +77,6 @@
     },
     {
         "id": 5,
-        "title": "Mission locale de Dieppe",
-        "description": "Intégration du site de la mission locale de Dieppe effectuée lors d'un stage à l'imprimerie IC4.",
-        "image": "Images/logo-mission-locale-dieppe.webp",
-        "link": "https://www.mldieppe.org/",
-        "details": {
-            "titleDetails" : "<strong>Détails :</strong><br>",
-            "contentDetails" : "Entrer le texte",
-            "titleValid" : "<strong>Pour être validé :</strong><br>",
-            "contentValid": "Entrer le texte",
-            "titleComp" : "<strong>Compétences acquises :</strong><br>",
-            "contentComp": "<ul><li>Compétences A</li><li>Compétence B</li></ul>",
-            "encounteredTitle": "<strong>Difficultés rencontrées :</strong><br>",
-            "encounteredContent": "---",
-            "linkSource": "https://leProjet.com",
-            "linkText": "Lien Github"
-        }
-    },
-    {
-        "id": 6,
         "title": "Côté linux",
         "description": "Quelques scripts programmés en bash sous forme d'un mini blog.",
         "image": "Images/linux_logo.webp",
@@ -114,7 +95,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 6,
         "title": "Nina Carducci",
         "description": "Projet d'optimisation de performances, d'accesssibilié et de référencement SEO.",
         "image": "Images/Nina.webp",
@@ -133,7 +114,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 7,
     	"title": "Kasa",
     	"description": "Projet réalisé lors de ma formation Openclassrooms. Application web React d'une ageance de location immobilière",
     	"image": "Images/kasa.webp",
