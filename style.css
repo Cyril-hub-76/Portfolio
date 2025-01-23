@@ -60,7 +60,6 @@ nav ul{
     list-style:none;
     text-align:left;
     padding:0;
-    z-index:-1;
     margin-top:10vh;
 }
 nav ul li{
@@ -99,7 +98,6 @@ section#introduce p{
     display:flex;
     justify-content:space-between;
     align-items:center;
-    margin-bottom:20px;
     width:70%;
 }
 .container{
@@ -142,6 +140,9 @@ section#introduce p{
 .card .project, .card .infos{
     text-decoration:none;
     color:#5f9ea0;
+}
+.infos:hover {
+    cursor: pointer;
 }
 .card .project {
     position: relative;

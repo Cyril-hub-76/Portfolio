@@ -68,7 +68,7 @@
             "titleValid" : "",
             "contentValid": "",
             "titleComp" : "<strong>Compétences acquises :</strong><br>",
-            "contentComp": "<ul><li>Le perfectionnement sur mes compétences en CSS</li><li>Faire preuve de rigueur</li></ul>",
+            "contentComp": "<ul><li>Le perfectionnement en CSS</li><li>Faire preuve de rigueur</li></ul>",
             "encounteredTitle": "<strong>Difficultés rencontrées :</strong><br>",
             "encounteredContent": "Les problématiques rencontrées on été de respecter la charte graphique le plus fidèlement possible, d'organiser le CSS correctement pour qu'il soit maintenable, trouver les solutions pour respecter le graphisme comme l'utilisation de pseudo-classes. Pour les surmonter, j'ai bien entendu appliqué les conseils de Clément, mon maître de stage et surtout consulté les forums comme stack overflow et la documentation MDN.",
             "linkSource": "https://www.ingouville.fr/",
@@ -102,7 +102,7 @@
         "link": "http://82.65.65.171/coteLinux/",
         "details": {
             "titleDetails" : "<strong>Détails :</strong><br>",
-            "contentDetails" : "Cette page raconte les prémices de ma vie de développeur, avant même que je ne décide de me lancer dans cette aventure. <br>J'y ai mis aussi quelques scripts fun pour pimper mon environnment de bureau Gnome. Bonne lecture!!!",
+            "contentDetails" : "Cette page raconte les prémices de ma vie de développeur, avant même que je ne décide de me lancer dans cette aventure. <br>J'y ai mis quelques scripts fun pour pimper mon environnment de bureau Gnome. Bonne lecture!!!",
             "titleValid" : "",
             "contentValid": "",
             "titleComp" : "",

@@ -18,7 +18,7 @@ async function loadProjects() {
                     <p class="Pcard">${project.description}</p>
                 </div>
                 <div class="cardFooter">
-                    <a class="infos" title="Informations supplémentaires" href="#" data-id="${project.id}"><i class="fa-solid fa-plus"></i>  </a>
+                    <i data-id="${project.id}" aria-hidden="false" aria-label="Afficher les informations complémentaires" class="fa-solid fa-plus infos"></i>
                     <a class="project" title="Voir le projet ${project.title}" href="${project.link}" target="_blank">Voir le projet</a>
                 </div>
             `;
