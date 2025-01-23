@@ -84,7 +84,7 @@ window.addEventListener("scroll",function(exp){
     const{scrollTop,clientHeight}=document.documentElement;
     for(let i=0;i<exp.length;i++){
         const topElementToTopWindow=exp[i].getBoundingClientRect().top;
-        if(scrollTop>(scrollTop+topElementToTopWindow)-clientHeight*0.50){
+        if(scrollTop>(scrollTop+topElementToTopWindow)-clientHeight*0.60){
             exp[i].classList.add("active")
         }
     }

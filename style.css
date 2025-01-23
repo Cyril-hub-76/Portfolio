@@ -27,7 +27,6 @@ nav{
     text-align:center;
     position:sticky;
     top:0;
-    z-index:4;
 }
 nav #burger{
     display:none;
@@ -41,7 +40,6 @@ h1{
     margin:140px 0;
     text-transform:uppercase;
     font-size:2em;
-    font-family:"Nunito-Bold";
 }
 h2.titleSection{
     padding:60px 0;
@@ -69,7 +67,7 @@ nav ul li a{
     border:2px #0B4F6C solid;
     border-top-right-radius:25px;
     border-bottom-right-radius:25px;
-    transition:0.4s;
+    transition:.3s;
 }
 nav ul li a:hover{
     width:83%;
@@ -109,7 +107,7 @@ section#introduce p{
     padding:15px;
     border-radius:10px;
     background:linear-gradient(to bottom,#5f9ea0,#0b4f6c);
-    transition:.5s;
+    transition:.3s;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -149,7 +147,7 @@ section#introduce p{
     width:0;
     height:2px;
     background:#5f9ea0;
-    transition:.5s;
+    transition:.3s;
 }
 .cardFooter {
     bottom: 15px;
@@ -196,13 +194,12 @@ footer{
     height:60px;
 }
 .arrTop{
-    height:40px;
+    width:30px;
     position:absolute;
     right:8px;
     bottom:90px;
     position:fixed;
     visibility:hidden;
-    transition:0.4s;
 }
 /*modal*/
 .modal {
