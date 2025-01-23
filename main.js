@@ -42,14 +42,16 @@ loadProjects();
 //----------------------
 
 window.addEventListener("scroll",function(){
+    const arrTop = document.querySelector(".arrTop");
+    
     if(window.matchMedia("(max-width: 810px)").matches){
         if(window.scrollY>=1200){
-            document.querySelector('.arrTop').style.visibility='visible';
+            arrTop.style.display="block";
         }else{
-            document.querySelector('.arrTop').style.visibility='hidden'
+            arrTop.style.display="none";
         }
     }else{
-            document.querySelector('.arrTop').style.visibility='hidden'
+            arrTop.style.display="none";
     }
 });
 

@@ -199,7 +199,7 @@ footer{
     right:8px;
     bottom:90px;
     position:fixed;
-    visibility:hidden;
+    display:none;
 }
 /*modal*/
 .modal {
@@ -230,7 +230,6 @@ footer{
 }
 
 .modalTitle {
-	font-family: "Work Sans", sans-serif;
 	font-optical-sizing: auto;
 	font-weight: 400;
 	font-style: normal;
@@ -334,6 +333,9 @@ footer{
 @media screen and (max-width:768px){
     h1{
         margin:45px 0;
+    }
+    .card .project {
+        font-size: 14px;
     }
     .expo{
         border:none;
