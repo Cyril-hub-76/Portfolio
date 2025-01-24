@@ -18,7 +18,7 @@ async function loadProjects() {
                     <p class="Pcard">${project.description}</p>
                 </div>
                 <div class="cardFooter">
-                    <i data-id="${project.id}" aria-hidden="false" aria-label="Afficher les informations complémentaires" class="fa-solid fa-plus infos"></i>
+                    <i data-id="${project.id}" aria-label="Afficher les informations complémentaires" class="fa-solid fa-plus infos"></i>
                     <a class="project" title="Voir le projet ${project.title}" href="${project.link}" target="_blank">Voir le projet</a>
                 </div>
             `;
@@ -43,7 +43,7 @@ loadProjects();
 
 window.addEventListener("scroll",function(){
     const arrTop = document.querySelector(".arrTop");
-    
+
     if(window.matchMedia("(max-width: 810px)").matches){
         if(window.scrollY>=1200){
             arrTop.style.display="block";

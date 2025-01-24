@@ -9,7 +9,7 @@ body{
     padding:0;
     background:#0B4F6C;
     color:#fbfbff;
-    font-family: "Times New Roman", sans-serif;
+    font-family: "Inter", sans-serif;
 
 }
 .flex{
@@ -124,10 +124,12 @@ section#introduce p{
     line-height:20px;
     margin:25px 0;
     text-align:left;
-    font-size:.8em;
+    font-size: 13px;
 }
 .project {
     width: 87px;
+    font-size: 14px;
+    text-align: center;
 }
 .card .project, .card .infos{
     text-decoration:none;

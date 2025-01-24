@@ -45,7 +45,7 @@
         "link": "http://82.65.65.171/amsac/index.php",
         "details": {
             "titleDetails" : "<strong>Détails :</strong><br>",
-            "contentDetails" : "C'est l'un de mes premiers projets. J'ai commencé par faire la page d'accueil de ce site en suivant le cours <a href='https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3' target='_blank'>\"Créez votre site web avec HTMLS et CSS3\"</a> jusqu'à terminer toutes les pages. J'ai poursuivi en y intégrant le carrousel. Je suis revenue sur le projet pour travailler le responsive et y ajouter un menu burger." ,
+            "contentDetails" : "C'est l'un de mes premiers projets. J'ai commencé par faire la page d'accueil de ce site en m'appuyant sur mes connaissances acquises grâce au cours <a href='https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3' target='_blank'>\"Créez votre site web avec HTMLS et CSS3\"</a> jusqu'à terminer toutes les pages. J'ai poursuivi en y intégrant le carrousel. Je suis revenue sur le projet pour travailler le responsive et y ajouter un menu burger." ,
             "titleValid" : "",
             "contentValid": "",
             "titleComp" : "<strong>Compétences acquises :</strong><br>",
@@ -102,14 +102,14 @@
         "link": "https://cyril-hub-76.github.io/NinaCarducci/",
         "details": {
             "titleDetails" : "<strong>Détails :</strong><br>",
-            "contentDetails" : "Entrer le texte",
+            "contentDetails" : "C'est le 5ème projet de ma formation de développeur web. Les performances du site web de la photographe Nina Carducci, l'accessibilité, le référencement naturel sont à améliorer. ( Photos non optimisée, structure HTML à revoir... )",
             "titleValid" : "<strong>Pour être validé :</strong><br>",
-            "contentValid": "Entrer le texte",
+            "contentValid": "Il faut: <br>- Un projet 100 % fonctionnel sans bug dans son exécution.<br>- Avoir ajouté le référencement local.<br>- Avoir résolu un des bugs dans le site.<br>- Avoir corrigé l'accessibilité.<br>- Un rapport Lighthouse au vert (note supérieure ou égale à 90 %) sur les 3 axes (performances, accessibilité, SEO).<br>- Avoir un rapport d’intervention complet incluant le cahier de recette.",
             "titleComp" : "<strong>Compétences acquises :</strong><br>",
-            "contentComp": "<ul><li>Compétences A</li><li>Compétence B</li></ul>",
+            "contentComp": "<ul><li>Optimiser les performances d’un site web</li><li>Débugger un site web grâce aux Chrome DevTools</li><li>Rédiger un cahier de recette pour tester un site</li></ul>",
             "encounteredTitle": "<strong>Difficultés rencontrées :</strong><br>",
-            "encounteredContent": "---",
-            "linkSource": "https://leProjet.com",
+            "encounteredContent": "Je n'ai pas eu de réelles difficultés techniques. Le projet a surtout nécessité de la documentation pour comprendre les \"erreurs\" remontées par les outils d'audit. Une difficulté tout de même, a été d'expliquer à l'orale comme lors de la rédaction de l'audit, les raisons pour lesquelles certaines des fonctionnalités buggent ou les actions effectuées pour le SEO sans être trop complexe.",
+            "linkSource": "https://github.com/Cyril-hub-76/NinaCarducci",
             "linkText": "Lien Github"
         }
     },
@@ -127,7 +127,7 @@
             "titleComp" : "<strong>Compétences acquises :</strong><br>",
             "contentComp": "<ul><li>Configurer la navigation entre les pages de l'application avec React Router</li><li>Initialiser une application avec Create React App</li><li>Développer des éléments de l'interface d'un site web grâce à des composants React</li></ul>",
             "encounteredTitle": "Difficultés rencontrées :",
-            "encounteredContent": "- Isoler les composants réutilisables, il a fallu pour cela repérer dans la maquette qui a été fournie, les éléments identiques présents sur chacune des pages, avec leur comportements. Un exemple, les collapsibles (menu déroulant ). Comme, il n'est pas permis dans ce projet d'utiliser des plugins React, un bonne connaîssance en CSS est primordiale et visionner plusieurs exemples de code <a href='https://www.w3schools.com/howto/howto_js_collapsible.asp' target='_blank'>comme celui-çi</a>. <br>- Bien comprendre le sens parent => enfant. Avec un peu de pratique et de documentation 😉... <br>- Création d'un carrousel. Dans cet exemple, il faut maîtriser à la fois les états, les évènements et avoir des bases sur les tableaux. <br><a href='https://dev.to/ziratsu/build-a-slider-with-react-4651' target='_blank'>Ce tutoriel</a> m'a bien aidé dans ma réalisation notament sur la gestion du retour à la première image ou à la dernière selon la position dans le visionnage",
+            "encounteredContent": "- Isoler les composants réutilisables, il a fallu pour cela repérer dans la maquette qui a été fournie, les éléments identiques présents sur chacune des pages, avec leur comportements. Un exemple, les collapsibles (menu déroulant ). Comme, il n'est pas permis dans ce projet d'utiliser des plugins React, un bonne connaîssance en CSS est primordiale et visionner plusieurs exemples de code <a href='https://www.w3schools.com/howto/howto_js_collapsible.asp' target='_blank'>comme celui-çi</a>. <br>- Bien comprendre le sens parent => enfant. Avec un peu de pratique et de documentation 😉... <br>- Création d'un carrousel. Dans cet exemple, il faut maîtriser à la fois les états, les évènements et avoir des connaissances de bases sur les tableaux. <br><a href='https://dev.to/ziratsu/build-a-slider-with-react-4651' target='_blank'>Ce tutoriel</a> m'a bien aidé dans ma réalisation notament sur la gestion du retour à la première image ou à la dernière selon la position dans le visionnage",
             "linkSource": "https://github.com/Cyril-hub-76/kasa",
             "linkText": "Lien Github"
         }
