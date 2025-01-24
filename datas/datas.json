@@ -102,7 +102,7 @@
         "link": "https://cyril-hub-76.github.io/NinaCarducci/",
         "details": {
             "titleDetails" : "<strong>Détails :</strong><br>",
-            "contentDetails" : "C'est le 5ème projet de ma formation de développeur web. Les performances du site web de la photographe Nina Carducci, l'accessibilité, le référencement naturel sont à améliorer. ( Photos non optimisée, structure HTML à revoir... )",
+            "contentDetails" : "C'est le 5ème projet de ma formation de développeur web. Les performances du site web de la photographe Nina Carducci, l'accessibilité, le référencement naturel sont à améliorer. ( Photos non optimisées, structure HTML à revoir... )",
             "titleValid" : "<strong>Pour être validé :</strong><br>",
             "contentValid": "Il faut: <br>- Un projet 100 % fonctionnel sans bug dans son exécution.<br>- Avoir ajouté le référencement local.<br>- Avoir résolu un des bugs dans le site.<br>- Avoir corrigé l'accessibilité.<br>- Un rapport Lighthouse au vert (note supérieure ou égale à 90 %) sur les 3 axes (performances, accessibilité, SEO).<br>- Avoir un rapport d’intervention complet incluant le cahier de recette.",
             "titleComp" : "<strong>Compétences acquises :</strong><br>",
